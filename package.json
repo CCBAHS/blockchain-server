@@ -1,0 +1,21 @@
+{
+  "name": "blockchain-tele-health-services-blockchain-server",
+  "version": "1.0.0",
+  "description": "Blockchain Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "crypto-js": "^4.1.1",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "fs": "0.0.1-security",
+    "mongoose": "^6.3.4",
+    "request-ip": "^2.1.3"
+  }
+}
